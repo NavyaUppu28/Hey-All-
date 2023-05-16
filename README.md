@@ -2,6 +2,8 @@
 
 This is the portfolio of python code that I learned in the Computational Biology-Python course.
 
+## JupyterNote
+
 ```python
 %matplotlib inline
 import pandas as pd
@@ -528,4 +530,8 @@ fig.tight_layout()
 
 ```python
 
-## PythoN fUNDAMANETA
+## JupyterNote
+
+
+
+
