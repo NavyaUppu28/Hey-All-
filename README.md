@@ -528,5 +528,4 @@ fig.tight_layout()
 
 ```python
 
-```
-
+## PythoN fUNDAMANETA
